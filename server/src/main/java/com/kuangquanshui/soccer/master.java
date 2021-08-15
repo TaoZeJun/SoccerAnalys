@@ -7,4 +7,5 @@ package com.kuangquanshui.soccer;
  * @date: 2021/8/16 0:34
  */
 public class master {
+
 }
