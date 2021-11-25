@@ -19,5 +19,12 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper-it</artifactId>
+            <version>3.7.0</version>
+        </dependency>
+    </dependencies>
 
 </project>
